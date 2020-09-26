@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ViewEngines-ContextAddOn", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckoutWorkspace", "CheckoutWorkspace\CheckoutWorkspace.csproj", "{D9ADC7CD-B116-4D4E-A801-8A51A3864032}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateExecutionList", "CreateExecutionList\CreateExecutionList.csproj", "{0E9711CA-18E8-4D4D-A194-13117DFA19B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{D9ADC7CD-B116-4D4E-A801-8A51A3864032}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D9ADC7CD-B116-4D4E-A801-8A51A3864032}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D9ADC7CD-B116-4D4E-A801-8A51A3864032}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E9711CA-18E8-4D4D-A194-13117DFA19B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E9711CA-18E8-4D4D-A194-13117DFA19B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E9711CA-18E8-4D4D-A194-13117DFA19B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E9711CA-18E8-4D4D-A194-13117DFA19B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
